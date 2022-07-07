@@ -80,7 +80,7 @@ $(window).load(function(){
 		mm = String(today.getMonth() + 1).padStart(2, "0"),
 		yyyy = today.getFullYear(),
 		nextYear = yyyy + 1,
-		dayMonth = "07/09/",
+		dayMonth = "10/15/",
 		birthday = dayMonth + yyyy;
 	
 	today = mm + "/" + dd + "/" + yyyy;
