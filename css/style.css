@@ -330,7 +330,7 @@ h2 {
 	text-transform: uppercase;
 	color:#000000;
 }
-.coming-soon-banner h1 span{color: #00BFFF;}
+.coming-soon-banner h1 span,.sub-title span{color: #00BFFF;}
 .page-logo img{width: 40vw;margin:1vw auto}
 .wrapper ul.scene{
 	position: absolute;
