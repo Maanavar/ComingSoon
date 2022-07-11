@@ -365,13 +365,14 @@ h2 {
   }
 @media(max-width:767px){
 	.page-logo img{width: 75vw;}
-	.coming-soon-banner h1{font-size: 10vw;line-height: 15vw;}
-	#countdown ul li span{font-size: 20vw;}
-	#countdown ul li{font-size: 5.6vw;padding: 5vw 7vw;}
-	.sub-title{font-size: 6vw;line-height: 8vw;}
+	.coming-soon-banner h1{font-size: 6.5vw;line-height: 15vw;}
+	#countdown ul li span{font-size: 15vw;}
+	#countdown ul li{font-size: 4.5vw;padding: 5vw 8vw;}
+	.sub-title{font-size: 5vw;line-height: 6vw;}
+	#countdown{    margin-bottom: 8vw;}
 	.contact .icons li a{width: 12.5vw;font-size: 7vw;}
 	.contact p, .contact p a{font-size: 4vw !important;}
-	.contact .icons{margin-top: 15vw;}
+	.contact .icons{margin-top: 10vw;}
 }
 
 /* Countdown code ends */
